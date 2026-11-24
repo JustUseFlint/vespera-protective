@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://justuseflint.github.io/vespera-protective/sitemap.xml
